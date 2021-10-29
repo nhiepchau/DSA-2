@@ -1,0 +1,1 @@
+if (newNode->identifier == 87) rotatewithRightChild(newNode->parent);

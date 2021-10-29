@@ -1,0 +1,11 @@
+INSERT sFMr (number,number,string)->number false
+INSERT fX0MW string true
+BEGIN
+PRINT
+INSERT h (string,string,string)->string true
+INSERT jEG8d_ number false
+PRINT
+LOOKUP sFMr
+LOOKUP h
+END
+ASSIGN jEG8d_ sFMr(12,jEG8d_,fX0MW)
